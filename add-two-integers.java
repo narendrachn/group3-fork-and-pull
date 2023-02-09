@@ -1,5 +1,7 @@
+import java.util.scanner;
 class Main {
 
+   // create a function for adding to numbers
     public static void main(String[] args) {
       
       int first = 10;
